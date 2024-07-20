@@ -40,10 +40,7 @@ const Hero = () => {
             icon="/arrow.svg"
             variant="btn_fire_red"
             onClick={() =>
-              window.open(
-                "https://docs.google.com/forms/d/e/1FAIpQLSdKLcXNDxNZUStPkOXVOtv5HoypsI71b3HGYAkPGxWor-DIbA/viewform?embedded=true",
-                "_blank"
-              )
+              window.open("https://form.jotform.com/242015332089551")
             }
           />
           <Button
