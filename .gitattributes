@@ -1,0 +1,11 @@
+# Marking TypeScript files as the primary language
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+
+# If you want to specify for JavaScript as well
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+
+# If using Tailwind CSS
+*.css linguist-language=CSS
+*.scss linguist-language=SCSS
